@@ -1,0 +1,14 @@
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Users\luis\OneDrive\Área de Trabalho\development\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
